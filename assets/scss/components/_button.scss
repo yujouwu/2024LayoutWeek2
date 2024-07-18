@@ -1,0 +1,19 @@
+.btn{
+  padding: 12px 24px;
+  border-radius: 32px;
+  display: flex;
+  gap: 4px;
+  &:hover{
+    color: $primary-color;
+    background: #272822;
+    transition: 0.3s;
+  }
+}
+.btn-light{
+  color: $dark;
+  background: $light;
+}
+.btn-dark{
+  color: $light;
+  background: $dark;
+}

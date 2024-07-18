@@ -1,0 +1,18 @@
+*, *::before, *::after{
+  box-sizing: border-box;
+  // outline: 1px solid red;
+}
+body{
+  font-family: "Bruno Ace SC", sans-serif;
+  line-height: 1.5;
+}
+a{
+  text-decoration: none;
+  display: block;
+  color: inherit;
+}
+img{
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
