@@ -64,14 +64,14 @@ body {
 
 a {
   text-decoration: none;
-  display: block;
+  display: inline-block;
   color: inherit;
 }
 
 img {
   max-width: 100%;
   height: auto;
-  display: block;
+  vertical-align: middle;
 }
 
 .h1 {
@@ -207,8 +207,8 @@ img {
   margin-left: auto;
 }
 
-.mt-auto {
-  margin-top: auto;
+.mb-auto {
+  margin-bottom: auto;
 }
 
 .btn {

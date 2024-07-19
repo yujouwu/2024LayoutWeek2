@@ -8,11 +8,13 @@ body{
 }
 a{
   text-decoration: none;
-  display: block;
+  // display: block;
+  display: inline-block;
   color: inherit;
 }
 img{
   max-width: 100%;
   height: auto;
-  display: block;
+  // display: block;
+  vertical-align: middle;
 }
