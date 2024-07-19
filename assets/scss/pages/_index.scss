@@ -7,12 +7,8 @@
   padding-bottom: 32px;
 }
 
-.intro {
-  background: url("/assets/images/background-img.png") no-repeat center/cover;
-
-  &-desc {
-    max-width: 526px;
-  }
+.intro-desc {
+  max-width: 526px;
 }
 
 .about {

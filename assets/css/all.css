@@ -99,6 +99,10 @@ img {
   margin: 0 auto;
 }
 
+.bg {
+  background: no-repeat center/cover;
+}
+
 .bg-dark {
   background: #000000;
 }
@@ -242,9 +246,6 @@ img {
   padding-bottom: 32px;
 }
 
-.intro {
-  background: url("/assets/images/background-img.png") no-repeat center/cover;
-}
 .intro-desc {
   max-width: 526px;
 }
